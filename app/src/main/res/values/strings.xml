@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="nombre">Josué Rocafuerte</string>
+    <string name="telefono">0986131385</string>
+    <string name="email">jrocafuerte@righttek.com</string>
+    <string name="pnombre">Nombre</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+
+</resources>
